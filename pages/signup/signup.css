@@ -1,0 +1,31 @@
+.signup-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7rem;
+    text-align: center; 
+    flex-direction: column;
+    /* it is used for inline styling of img text-align*/
+
+    
+}
+.signup-card{
+    width:25rem;
+    height:27rem;
+    border:1px solid #ccc;
+    padding:1rem;
+}
+.bottom-card{
+    width:25rem;
+    border:1px solid #ccc;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+
+.tc{
+    margin-top: 1rem;
+    width:25rem;
+    color:grey;
+    margin-left: -1rem;
+}

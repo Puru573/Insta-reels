@@ -1,0 +1,47 @@
+.login-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7rem;
+    text-align: center; 
+    /* flex-direction: column; */
+    /* it is used for inline styling of img text-align*/
+
+    
+}
+.login-card{
+    width:25rem;
+    height:19rem;
+    border:1px solid #ccc;
+    padding:1rem;
+}
+.log-card{
+    width:25rem;
+    height:3rem;
+    border:1px solid #ccc;
+    margin-top: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.tnc{
+    margin-top: 1rem;
+    width:25rem;
+    color:blue;
+    margin-left: -1rem;
+}
+
+.insta-mob-bg{
+    background-image: url("../../assets/insta-mob-bg.png");
+    width:454px;
+    height:618px;
+    /* position: relative; */
+}
+
+
+
+
+
